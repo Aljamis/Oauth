@@ -1,0 +1,9 @@
+bin/
+**/*.class
+deploy/
+.settings/
+
+.project
+.classpath
+Notes.txt
+*build.number
