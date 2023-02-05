@@ -1,0 +1,8 @@
+This script will
+Read form a file and
+Iterate each record
+  if a record is a USER
+    Insert to UserTable
+  else if record is ACCOUNT
+    Insert to AccountTable
+  fi
